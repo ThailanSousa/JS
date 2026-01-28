@@ -27,7 +27,7 @@ tecnologias.push("react");
 
 
 const real  = tecnologias[1] == "CSS" ? "gosta de CSS" : "não gosta de CSS";
-const teste = tecnologias[1] != "CSS" ? "não e CSS" : "e CSS";
+const teste = tecnologias[1] != "CSS" ? "não e CSS" : "e CSS.";
 
 console.log(real,);
 console.log(`o valor e : ${teste}`);
